@@ -14,7 +14,7 @@ Below you'll find a breakdown of each day's project or lesson, along with links 
 
 ### Day 1 - Getting Started with SwiftUI
 - Introduction to SwiftUI: Understanding basic layout concepts like `Text`, `VStack`, and `HStack`.
-- [Code Example](./day1)
+- [Code Example](./Day1)
 
 ..
 
